@@ -1,0 +1,46 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "epistemic-governor-supplementary"
+version = "1.0.0"
+description = "Figure scripts and calibration data for The Epistemic Governor manuscript"
+readme = "README.md"
+license = {file = "LICENSE"}
+authors = [
+    {name = "Christopher A. Clemons", email = "cac0132@auburn.edu"},
+    {name = "Jason D. McKibben"},
+    {name = "James R. Lindner"},
+]
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.7.0",
+    "numpy>=1.24.0",
+    "Pillow>=10.0.0",
+    "openpyxl>=3.1.0",
+]
+keywords = [
+    "Parallel Cognitive Router",
+    "Fidelity Index",
+    "academic integrity",
+    "AI verification",
+    "epistemic governance",
+    "sentence embeddings",
+    "all-mpnet-base-v2",
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: Creative Commons Attribution",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+
+[project.urls]
+"Source Code" = "https://github.com/cacbocam-source/epistemic-governor-supplementary"
+"Zenodo Archive" = "https://doi.org/10.5281/zenodo.PLACEHOLDER"
+"Manuscript" = "https://doi.org/PLACEHOLDER_JOURNAL_DOI"

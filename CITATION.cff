@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite it using the metadata from this file."
+type: software
+title: "The Epistemic Governor: Supplementary Figure Scripts and Calibration Data"
+abstract: "Figure generation scripts (Figures 1-5) and Fidelity Index calibration matrix for the manuscript 'The Epistemic Governor: Reconceiving Professional Identity and Methodological Accountability in AI-Assisted Scholarship.' Includes all 15 individual Phi scores across three calibration categories (Direct Extraction, Human Paraphrase, Stochastic Divergence) and the Reference Implementation symmetric chunking comparison. Verification threshold tau = .70. PCR architecture operationalizes all-mpnet-base-v2 sentence embeddings (Reimers & Gurevych 2019, 768-D) with cosine similarity scoring."
+authors:
+  - family-names: "Clemons"
+    given-names: "Christopher A."
+    affiliation: "Department of Curriculum and Teaching, College of Education, Auburn University"
+    orcid: "https://orcid.org/0000-0001-9879-0888"
+  - family-names: "McKibben"
+    given-names: "Jason D."
+    affiliation: "Auburn University"
+    orcid: "https://orcid.org/0000-0003-2080-202X"
+  - family-names: "Lindner"
+    given-names: "James R."
+    affiliation: "Auburn University"
+    orcid: "https://orcid.org/0000-0002-1448-3846"
+version: "1.0.0"
+date-released: "2026-06-19"
+license: CC-BY-4.0
+repository-code: "https://github.com/cacbocam-source/epistemic-governor-supplementary"
+url: "https://github.com/cacbocam-source/epistemic-governor-supplementary"
+doi: "10.5281/zenodo.PLACEHOLDER"
+keywords:
+  - "Parallel Cognitive Router"
+  - "Fidelity Index"
+  - "epistemic governance"
+  - "academic integrity"
+  - "AI verification"
+  - "sentence embeddings"
+  - "all-mpnet-base-v2"
+  - "educational integrity"
+  - "calibration data"
+  - "stochastic divergence"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Clemons"
+      given-names: "Christopher A."
+      affiliation: "Auburn University"
+    - family-names: "McKibben"
+      given-names: "Jason D."
+    - family-names: "Lindner"
+      given-names: "James R."
+  title: "The Epistemic Governor: Reconceiving Professional Identity and Methodological Accountability in AI-Assisted Scholarship"
+  journal: "International Journal for Educational Integrity"
+  year: 2026
+  doi: "PLACEHOLDER_JOURNAL_DOI"

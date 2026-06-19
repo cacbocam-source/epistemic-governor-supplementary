@@ -1,0 +1,64 @@
+{
+  "title": "The Epistemic Governor: Supplementary Figure Scripts and Calibration Data",
+  "description": "<p>Supplementary figure generation scripts (Figures 1–5) and Fidelity Index calibration matrix for the manuscript: <em>The Epistemic Governor: Reconceiving Professional Identity and Methodological Accountability in AI-Assisted Scholarship</em>. Submitted to the International Journal for Educational Integrity (IJEI), AI-Ethics Collection (Springer Nature / BMC), 2026.</p><p><strong>Contents:</strong></p><ul><li><code>figures/</code> — Five Python matplotlib scripts generating all manuscript figures at 600 dpi (BMC/Springer Nature combination artwork specification)</li><li><code>data/Epistemic_Governor_Calibration_Matrix_TableA1.xlsx</code> — Complete calibration matrix with 15 individual Φ scores across three reference categories (Direct Extraction, Human Paraphrase, Stochastic Divergence) and Reference Implementation symmetric chunking comparison (Zhu et al. 2025)</li><li><code>scripts/generate_calibration_data.py</code> — Reproducible data generation script</li></ul><p><strong>Calibration summary:</strong> Direct Extraction (n=5, M=1.00), Human Paraphrase (n=5, M=.58, R=.24–.82), Stochastic Divergence (n=5, M=.54, R=.35–.67). Reference Implementation: Φ = 0.5963 (≈ .60), below τ = .70 verification threshold. PCR Audit Engine: all-mpnet-base-v2 (Reimers &amp; Gurevych 2019), 768-D sentence embeddings, cosine similarity. Source: PCR Master Execution Ledger, March 2026.</p><p><strong>Note:</strong> PCR_Audit_Engine.py v6.0 is not included pending intellectual property review. See Appendix A procedural logic proxy in the manuscript for independent replication.</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Clemons, Christopher A.",
+      "affiliation": "Department of Curriculum and Teaching, College of Education, Auburn University",
+      "orcid": "0000-0001-9879-0888"
+    },
+    {
+      "name": "McKibben, Jason D.",
+      "affiliation": "Auburn University",
+      "orcid": "0000-0003-2080-202X"
+    },
+    {
+      "name": "Lindner, James R.",
+      "affiliation": "Auburn University",
+      "orcid": "0000-0002-1448-3846"
+    }
+  ],
+  "keywords": [
+    "Parallel Cognitive Router",
+    "Fidelity Index",
+    "epistemic governance",
+    "academic integrity",
+    "AI-assisted scholarship",
+    "sentence embeddings",
+    "all-mpnet-base-v2",
+    "stochastic divergence",
+    "calibration data",
+    "educational integrity",
+    "AI verification",
+    "hallucination detection",
+    "post-plagiarism"
+  ],
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/cacbocam-source/epistemic-governor-supplementary",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "scheme": "doi",
+      "identifier": "10.1057/s41599-025-05252-6",
+      "relation": "references",
+      "resource_type": "publication-article"
+    },
+    {
+      "scheme": "doi",
+      "identifier": "10.37433/aad.v7i2.637",
+      "relation": "references",
+      "resource_type": "publication-article"
+    }
+  ],
+  "notes": "This dataset accompanies the manuscript 'The Epistemic Governor: Reconceiving Professional Identity and Methodological Accountability in AI-Assisted Scholarship,' submitted to the International Journal for Educational Integrity AI-Ethics Collection (December 2026 deadline). Auburn University APC covered upon acceptance. IRB protocol: STUDY00000322.",
+  "communities": [
+    {"identifier": "zenodo"}
+  ],
+  "version": "1.0.0"
+}
