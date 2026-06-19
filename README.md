@@ -1,6 +1,6 @@
 # The Epistemic Governor — Supplementary Materials
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.PLACEHOLDER.svg)](https://doi.org/10.5281/zenodo.PLACEHOLDER)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20761026.svg)](https://doi.org/10.5281/zenodo.20761026)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
@@ -138,7 +138,7 @@ Python 3.10 or higher required.
 ```
 Clemons, C. A., McKibben, J. D., & Lindner, J. R. (2026). The Epistemic Governor: 
 Supplementary figure scripts and calibration data [Dataset]. Zenodo. 
-https://doi.org/10.5281/zenodo.PLACEHOLDER
+https://doi.org/10.5281/zenodo.20761026
 ```
 
 ### BibTeX
@@ -149,8 +149,8 @@ https://doi.org/10.5281/zenodo.PLACEHOLDER
   title     = {The Epistemic Governor: Supplementary Figure Scripts and Calibration Data},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.PLACEHOLDER},
-  url       = {https://doi.org/10.5281/zenodo.PLACEHOLDER},
+  doi       = {10.5281/zenodo.20761026},
+  url       = {https://doi.org/10.5281/zenodo.20761026},
   note      = {Supplementary materials for manuscript submitted to International 
                Journal for Educational Integrity, AI-Ethics Collection}
 }
