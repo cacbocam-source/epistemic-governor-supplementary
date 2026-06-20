@@ -6,7 +6,7 @@
 
 **Figure generation scripts and calibration data for:**
 
-> Clemons, C. A., McKibben, J. D., & Lindner, J. R. (2026). The Epistemic Governor: Reconceiving professional identity and methodological accountability in AI-assisted scholarship. *International Journal for Educational Integrity*, AI-Ethics Collection. https://doi.org/[JOURNAL_DOI]
+> Clemons, C. A., McKibben, J. D., & Lindner, J. R. (2026). The Epistemic Governor: Reconceiving professional identity and methodological accountability in AI-assisted scholarship. Working paper. Supplementary data: https://doi.org/10.5281/zenodo.20761026
 
 ---
 
@@ -151,8 +151,7 @@ https://doi.org/10.5281/zenodo.20761026
   publisher = {Zenodo},
   doi       = {10.5281/zenodo.20761026},
   url       = {https://doi.org/10.5281/zenodo.20761026},
-  note      = {Supplementary materials for manuscript submitted to International 
-               Journal for Educational Integrity, AI-Ethics Collection}
+  note      = {Working paper. Citation will be updated upon publication.}
 }
 ```
 
@@ -163,9 +162,8 @@ https://doi.org/10.5281/zenodo.20761026
   author  = {Clemons, Christopher A. and McKibben, Jason D. and Lindner, James R.},
   title   = {The Epistemic Governor: Reconceiving Professional Identity and 
              Methodological Accountability in {AI}-Assisted Scholarship},
-  journal = {International Journal for Educational Integrity},
   year    = {2026},
-  doi     = {PLACEHOLDER_JOURNAL_DOI}
+  note    = {Working paper}
 }
 ```
 
