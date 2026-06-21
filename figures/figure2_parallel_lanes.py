@@ -2,7 +2,7 @@
 Figure 2 — PCR Three-Lane Parallel Agent Architecture
 Conceptual diagram showing the Parallel Cognitive Router's three simultaneous
 processing lanes: Analyst Agent, Skeptic Agent, and Epistemic Governor.
-Output: figure2_parallel_lanes.tiff — 600 dpi, LZW, BMC/Springer Nature spec.
+Output: figure2_parallel_lanes.tiff — 600 dpi, LZW.
 """
 
 from pathlib import Path

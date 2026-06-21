@@ -2,7 +2,7 @@
 Figure 4 — PCR Operational Swimlane Workflow
 Four-swimlane diagram: Human Orchestrator, Analyst Agent, Skeptic Agent,
 Epistemic Governor. Shows operational sequence and decision points.
-Output: figure4_pcr_workflow.tiff — 600 dpi, LZW, BMC/Springer Nature spec.
+Output: figure4_pcr_workflow.tiff — 600 dpi, LZW.
 """
 
 from pathlib import Path

@@ -71,7 +71,7 @@ python scripts/generate_calibration_data.py
 python figures/figure3_fidelity_dotplot.py
 ```
 
-All figures save to `_02_Figures_TIFF/` as 600 dpi TIFF (LZW compression), BMC/Springer Nature combination artwork specification.
+All figures save to `_02_Figures_TIFF/` as 600 dpi TIFF (LZW compression).
 
 ---
 
@@ -187,4 +187,4 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 
 ## Acknowledgments
 
-IRB Protocol: STUDY00000322. Auburn University covers the APC upon acceptance. The PCR reference implementation was executed March 2026. Source dataset: Lindner et al. (2026), *Advancements in Agricultural Development*, 7(2).
+IRB Protocol: STUDY00000322. The PCR reference implementation was executed March 2026. Source dataset: Lindner et al. (2026), *Advancements in Agricultural Development*, 7(2).

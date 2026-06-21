@@ -2,7 +2,7 @@
 Figure 1 — Signal Fidelity Decay in Linear Workflows
 Exponential decay curve illustrating cumulative fidelity loss across
 sequential agent handoffs in a linear pipeline vs. PCR parallel architecture.
-Output: figure1_signal_decay.tiff — 600 dpi, LZW, BMC/Springer Nature spec.
+Output: figure1_signal_decay.tiff — 600 dpi, LZW.
 """
 
 from pathlib import Path

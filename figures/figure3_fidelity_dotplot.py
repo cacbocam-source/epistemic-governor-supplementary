@@ -3,8 +3,7 @@ Figure 3 — Fidelity Index (Φ) Distribution and Review Trigger
 Strip chart: all 15 individual Φ values by calibration category.
 Horizontal dashed threshold line at τ = .70.
 Category mean markers. Reference implementation Φ = .60 annotated.
-Output: figure3_fidelity_dotplot.tiff — 600 dpi, combination artwork
-BMC/Springer Nature IJEI submission standard.
+Output: figure3_fidelity_dotplot.tiff — 600 dpi, combination artwork.
 No figure title or note included in the image.
 
 Data source: PCR Master Execution Ledger, March 2026.

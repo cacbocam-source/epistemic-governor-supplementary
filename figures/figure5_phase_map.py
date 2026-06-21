@@ -2,7 +2,7 @@
 Figure 5 — Reference Implementation Phase Map with Audit Trail
 Horizontal phase map showing PCR execution phases for the Zhu et al. (2025)
 reference implementation. Annotates flagged claim and Epistemic Governor outcome.
-Output: figure5_phase_map.tiff — 600 dpi, LZW, BMC/Springer Nature spec.
+Output: figure5_phase_map.tiff — 600 dpi, LZW.
 """
 
 from pathlib import Path

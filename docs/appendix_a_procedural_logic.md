@@ -60,5 +60,4 @@ Output: Epistemic_Friction_Report → Human_Orchestrator
 
 ---
 
-*Source: Clemons, C. A., McKibben, J. D., & Lindner, J. R. (2026). The Epistemic
-Governor. International Journal for Educational Integrity.*
+*Source: Clemons, C. A., McKibben, J. D., & Lindner, J. R. (2026). The Epistemic Governor. Working paper.*
