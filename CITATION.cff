@@ -16,12 +16,12 @@ authors:
     given-names: "James R."
     affiliation: "Auburn University"
     orcid: "https://orcid.org/0000-0002-1448-3846"
-version: "1.0.0"
-date-released: "2026-06-19"
+version: "1.1.1"
+date-released: "2026-09-14"
 license: CC-BY-4.0
 repository-code: "https://github.com/cacbocam-source/epistemic-governor-supplementary"
 url: "https://github.com/cacbocam-source/epistemic-governor-supplementary"
-doi: "10.5281/zenodo.20761026"
+doi: "10.5281/zenodo.22754662"
 keywords:
   - "Parallel Cognitive Router"
   - "Fidelity Index"

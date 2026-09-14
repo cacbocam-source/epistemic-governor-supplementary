@@ -56,9 +56,11 @@
       "resource_type": "publication-article"
     }
   ],
-  "notes": "This dataset accompanies the working paper 'The Epistemic Governor: Reconceiving Professional Identity and Methodological Accountability in AI-Assisted Scholarship' (Clemons, McKibben & Lindner, 2026). Citation will be updated upon publication. IRB protocol: STUDY00000322.",
+  "notes": "This dataset accompanies the working paper 'The Epistemic Governor: Reconceiving Professional Identity and Methodological Accountability in AI-Assisted Scholarship' (Clemons, McKibben & Lindner, 2026). Citation will be updated upon publication. IRB protocol: STUDY00000322. Version 1.1.1 corrects a descriptive provenance annotation in the calibration supplement; manuscript statistical reporting is unchanged.",
   "communities": [
-    {"identifier": "zenodo"}
+    {
+      "identifier": "zenodo"
+    }
   ],
-  "version": "1.0.0"
+  "version": "1.1.1"
 }

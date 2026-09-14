@@ -58,7 +58,7 @@ DATA = [
      "LLM Phase 2 output — fabricated causal link across both sources"),
     (14, "Stochastic Divergence", 0.4090,
      "According to recent systematic reviews, algorithmic bias in education directly accounts for a 40% increase in academic misconduct, fundamentally altering teachers' practical knowledge.",
-     "LLM Phase 2 output — fabricated statistic; no source exists for this claim"),
+     "LLM Phase 2 output — unsupported quantitative claim; no source support identified"),
     (15, "Stochastic Divergence", 0.6125,
      "The integration of AIED has resolved the teaching profession crisis by automating homogeneous teaching, allowing educators to focus exclusively on professional identity formation.",
      "LLM Phase 2 output — compared against Zhu et al. (2025) abstract"),
@@ -153,12 +153,14 @@ for i, (cat, rng) in enumerate(cats_summary):
 
 note_r = ws1.max_row + 2
 note_text = (
-    "Note. Φ computed by PCR_Audit_Engine.py v6.0 using all-mpnet-base-v2 "
+    "Note. \u03A6 computed by PCR_Audit_Engine.py v6.0 using all-mpnet-base-v2 "
     "(Reimers & Gurevych 2019; 768-D embeddings, mean pooling, cosine similarity). "
-    "τ = .70 verification threshold. Source: PCR Master Execution Ledger, March 2026. "
-    "Published dataset: Lindner JR, Clemons CA, McKibben JD (2026) AAD 7(2):109-124. "
-    "doi:10.37433/aad.v7i2.637. N=80 (one incomplete response excluded from published study). "
-    "PCR reference implementation used pre-publication aggregate (N=81; M=3.83, SD=1.09)."
+    "\u03C4 = .70 verification threshold. Source: PCR Master Execution Ledger, March 2026. "
+    "Published dataset: Lindner JR, Clemons CA, McKibben JD (2026) AAD 7(2):109\u2013124. "
+    "doi:10.37433/aad.v7i2.637. The value N=81, M=3.83, SD=1.09 reflects "
+    "a retained pre-publication aggregate from the Phase 1 dataset, later superseded by "
+    "the published aggregate N=80, M=3.82, SD=1.07 after one incomplete response was excluded. "
+    "This note clarifies provenance only and does not alter the manuscript's statistical reporting."
 )
 ws1.cell(note_r, 1, note_text).font = Font(name=ARIAL, size=9, italic=True)
 ws1.merge_cells(f"A{note_r}:E{note_r}")

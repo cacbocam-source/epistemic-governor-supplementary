@@ -4,7 +4,7 @@ build-backend = "setuptools.backends.legacy:build"
 
 [project]
 name = "epistemic-governor-supplementary"
-version = "1.0.0"
+version = "1.1.1"
 description = "Figure scripts and calibration data for The Epistemic Governor manuscript"
 readme = "README.md"
 license = {file = "LICENSE"}
@@ -42,5 +42,5 @@ classifiers = [
 
 [project.urls]
 "Source Code" = "https://github.com/cacbocam-source/epistemic-governor-supplementary"
-"Zenodo Archive" = "https://doi.org/10.5281/zenodo.20761026"
-"Working Paper" = "https://doi.org/10.5281/zenodo.20761026"
+"Zenodo Archive" = "https://doi.org/10.5281/zenodo.22754662"
+"Working Paper" = "https://doi.org/10.5281/zenodo.22754662"

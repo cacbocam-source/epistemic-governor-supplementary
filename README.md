@@ -1,14 +1,16 @@
 # The Epistemic Governor — Supplementary Materials
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20761026.svg)](https://doi.org/10.5281/zenodo.20761026)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22754662.svg)](https://doi.org/10.5281/zenodo.22754662)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
 **Figure generation scripts and calibration data for:**
 
-> Clemons, C. A., McKibben, J. D., & Lindner, J. R. (2026). The Epistemic Governor: Reconceiving professional identity and methodological accountability in AI-assisted scholarship. Working paper. Supplementary data: https://doi.org/10.5281/zenodo.20761026
+> Clemons, C. A., McKibben, J. D., & Lindner, J. R. (2026). The Epistemic Governor: Reconceiving professional identity and methodological accountability in AI-assisted scholarship. Working paper. Supplementary data: https://doi.org/10.5281/zenodo.22754662
 
 ---
+
+**Corrected supplement version:** v1.1.1. This version updates a descriptive provenance annotation in the calibration supplement; manuscript statistical reporting is unchanged.
 
 ## Overview
 
@@ -138,7 +140,7 @@ Python 3.10 or higher required.
 ```
 Clemons, C. A., McKibben, J. D., & Lindner, J. R. (2026). The Epistemic Governor: 
 Supplementary figure scripts and calibration data [Dataset]. Zenodo. 
-https://doi.org/10.5281/zenodo.20761026
+https://doi.org/10.5281/zenodo.22754662
 ```
 
 ### BibTeX
@@ -149,8 +151,8 @@ https://doi.org/10.5281/zenodo.20761026
   title     = {The Epistemic Governor: Supplementary Figure Scripts and Calibration Data},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.20761026},
-  url       = {https://doi.org/10.5281/zenodo.20761026},
+  doi       = {10.5281/zenodo.22754662},
+  url       = {https://doi.org/10.5281/zenodo.22754662},
   note      = {Working paper. Citation will be updated upon publication.}
 }
 ```
